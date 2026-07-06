@@ -1,0 +1,4 @@
+📄 Project Documentation: TranslatorBot
+Overview
+TranslatorBot is a Discord bot built in Python that translates messages between languages using the deep-translator library,
+It allows users to type commands like !translate <lang> <message> and instantly receive translations inside Discord.
