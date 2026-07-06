@@ -1,0 +1,8 @@
+FEATURES
+✅ Responds to user commands in Discord channels.
+
+✅ Translates text into any supported language.
+
+✅ Uses deep-translator for reliable translations.
+
+✅ Built with discord.py and Python 3.14.
