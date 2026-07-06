@@ -1,0 +1,12 @@
+Installation
+Install Python 3.14.
+
+Install required libraries:
+
+bash
+pip install discord.py deep-translator
+Clone or download the project folder.
+
+Create a file bot.py with the bot code.
+
+Add your Discord bot token in the TOKEN variable.
