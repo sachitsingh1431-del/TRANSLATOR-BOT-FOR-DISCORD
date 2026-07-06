@@ -1,0 +1,8 @@
+Future Improvements
+Add !help and !hello commands for user interaction.
+
+Support auto-detection of user’s preferred language.
+
+Deploy bot to cloud hosting for 24/7 availability.
+
+Extend functionality (e.g., integrate with farming ML project for !detectleaf).
