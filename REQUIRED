@@ -1,0 +1,12 @@
+Tech Stack
+Language: Python 3.14
+
+Libraries:
+
+discord.py (for Discord integration)
+
+deep-translator (for translations)
+
+IDE: Visual Studio Code
+
+Hosting: Local machine (can later be deployed to Replit, Railway, or Heroku for 24/7 uptime).
