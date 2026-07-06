@@ -1,0 +1,13 @@
+Usage
+Run the bot:
+
+bash
+python bot.py
+In Discord, type:
+
+Code
+!translate en Hola amigo
+→ Bot replies:
+
+Code
+Translated (en): Hello friend
